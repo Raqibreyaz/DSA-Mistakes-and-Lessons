@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b89265b714616c58",
+        "id": "f1050a872f48b251",
         "type": "tabs",
         "children": [
           {
-            "id": "393f455a789f562a",
+            "id": "321f53f53a63ec8e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Recursion/LCS — Recognizing an Unresolved Choice.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "LCS — Recognizing an Unresolved Choice"
             }
           }
         ]
@@ -184,8 +188,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "393f455a789f562a",
+  "active": "68e23ccedc6757f3",
   "lastOpenFiles": [
+    "Recursion/LCS — Recognizing an Unresolved Choice.md",
+    "Recursion/Rod Cutting - From Raw Intuition to Brute Force.md",
+    "Recursion",
+    "Subset-Sum/DP - Why Same State Has Same Answer.md",
+    "Subset-Sum",
     "Heap/Why-Build-Heap-is-O-N.md",
     "Heap",
     "Backtracking/Designing-the-Recursive-state.md",
