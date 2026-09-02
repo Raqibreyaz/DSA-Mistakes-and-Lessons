@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Constraints-check-before-Implementation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Constraints-check-before-Implementation"
+            }
+          },
+          {
+            "id": "6d16d291bba8bf18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Recursion/LCS — Recognizing an Unresolved Choice.md",
                 "mode": "source",
                 "source": false
@@ -20,8 +34,23 @@
               "icon": "lucide-file",
               "title": "LCS — Recognizing an Unresolved Choice"
             }
+          },
+          {
+            "id": "569423236ed759dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recursion/LCSbstr - Local Continuation vs Global Exploration.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LCSbstr - Local Continuation vs Global Exploration"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -188,9 +217,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "68e23ccedc6757f3",
+  "active": "569423236ed759dc",
   "lastOpenFiles": [
+    "Recursion/LCSbstr - Local Continuation vs Global Exploration.md",
     "Recursion/LCS — Recognizing an Unresolved Choice.md",
+    "Greedy/Job Sequencing Problem.md",
+    "Constraints-check-before-Implementation.md",
+    "Greedy",
     "Recursion/Rod Cutting - From Raw Intuition to Brute Force.md",
     "Recursion",
     "Subset-Sum/DP - Why Same State Has Same Answer.md",
